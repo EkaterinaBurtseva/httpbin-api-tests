@@ -1,0 +1,4 @@
+Task 2
+1. Can be applied both boundary value and equivalence partitioning
+2.  Mock service B with configuration (define this setup before) that will produce 500 error for the service A and verify how service will handle this.
+3. C
